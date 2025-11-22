@@ -60,7 +60,8 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 ---
 
 ## 🔗 Contact me
-[![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affandhanbad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4ffan/)
+[![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affan.byte@gmail.com)
 
 
 
