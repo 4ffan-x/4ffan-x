@@ -63,6 +63,10 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4ffan/)
 [![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affan.byte@gmail.com)
 
+## 🧠 My LeetCode Profile
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/4ffan/)
 
+
+[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/4ffan?theme=dark&bgColor=282828)](https://leetcode.com/u/4ffan/)
 
 
