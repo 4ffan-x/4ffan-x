@@ -67,6 +67,5 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/4ffan/)
 
 
-[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/4ffan?theme=dark&bgColor=282828)](https://leetcode.com/u/4ffan/)
 
 
